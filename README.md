@@ -31,4 +31,6 @@ Below are all the project dependencies required to run the code:
       ```
       pip install screen-brightness-control
       ```
+After all dependecies are installed, you can run the gestureControl.py file.
+
 You can reach out me [George Mtombeni](https://www.linkedin.com/in/george-mtombeni-04948b211), the technical officer at the A.I Society, for any questions about the project. Also connect with me on LinkedIn :)
