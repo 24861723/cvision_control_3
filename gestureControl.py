@@ -16,7 +16,7 @@ Challenge 2: Design a better UI to enhance the user experience.
 
 Remember to have fun and happy coding!
 
-You can reach out to the George Mtombeni, the technical officer at the A.I Society for any questions about the project.
+You can reach out to the George Mtombeni(www.linkedin.com/in/george-mtombeni-04948b211), the technical officer at the A.I Society for any questions about the project.
 
 Project Insights:
 
