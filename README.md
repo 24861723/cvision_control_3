@@ -1,6 +1,11 @@
 # cvision_control_3
  CVision Control, a program that allows the user to control system brightness and volume using hand gestures. The code is made for members of the Stellenbosch University A.I Society, but is available to the public. All contributions are welcome.
 
+
+The HandTrackingModule.py file is a module that is used to detect hands and track the landmarks(24 points) of the hand. 
+The codebase uses these detected points and their location on the screen to control the volume and brightness of the system. 
+The rectangles and circles drawn on the screen are a way to show the user the current volume and brightness levels. 
+
  The image below shows the current user interface. There are two challenges detailed in the source code, one of which is to improve the user interface.
  
 ![image](https://github.com/24861723/cvision_control_3/assets/140675599/7e0edb76-ad78-4f7c-b56a-90123ce1810b)
