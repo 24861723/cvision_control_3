@@ -11,7 +11,13 @@ The rectangles and circles drawn on the screen are a way to show the user the cu
 ![image](https://github.com/24861723/cvision_control_3/assets/140675599/7e0edb76-ad78-4f7c-b56a-90123ce1810b)
 
 
-Below are all the project dependencies required to run the code:
+# How to run the program:
+
+- Ensure you have python installed on your computer.
+- Code Editor: I highly recommend installing Visual Studio Code to run the program. Vscode is a popular IDE which you can use to program in any programming language.
+
+
+Once you have installed python on your machine, you will have to install the following python libraries to run the code:
 
 1. **OpenCV (cv2)**:
     - Install OpenCV for computer vision:
@@ -36,6 +42,6 @@ Below are all the project dependencies required to run the code:
       ```
       pip install screen-brightness-control
       ```
-After all dependecies are installed, you can run the gestureControl.py file.
+After all dependecies are installed, you can run the gestureControl.py file to execute the main program.
 
 You can reach out me [George Mtombeni](https://www.linkedin.com/in/george-mtombeni-04948b211), the technical officer at the A.I Society, for any questions about the project. Also connect with me on LinkedIn :)
